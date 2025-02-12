@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S80qpOH6aA3SW+kftghfJnARLR2nau14yHJCGXl5UrBmKJ2E+VxVw4Foj3vC77HMHAWZhiLshOpanpCIzFmbrw==",
+  "success": true,
+  "projectFilePath": "/Users/ryan/Automation-Testing-Practice/SeleniumTest/SeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryan/.nuget/packages/selenium.webdriver/4.28.0/selenium.webdriver.4.28.0.nupkg.sha512",
+    "/Users/ryan/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/ryan/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
